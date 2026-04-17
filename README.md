@@ -4,6 +4,7 @@
 > **Status:** Public Interface  
 > **Audience:** Newcomers, collaborators, partners, curious visitors  
 > **Related:** `company`, `technomysticism`, `nousos`, `hopeful-party`
+> **Website:** hopefulvision.llc
 
 ## What this repo is
 This repo contains the public-facing website for HopefulVision. Its job is to introduce the ecosystem clearly, orient new visitors, and provide an accessible entry point into the broader body of work.
@@ -38,3 +39,5 @@ This repo connects most directly to:
 - public entrypoint
 - interface layer
 - early presentation infrastructure
+
+- 
